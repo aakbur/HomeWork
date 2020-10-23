@@ -7,9 +7,11 @@ git pull 		->To merge changes on the remote server to your local working directo
 git clone url		->To Create a working copy of a git local repository from github.
 git init		->Create a new  git local repository on your PC.
 git remote		->To check connectivity local working directory to remote server.
-git brunch		->to list all the branches in your reporepository , and also tell you what branch you're currently in.
+git brunch		->to list all the branches in your reporepository , and also tell you what branch you're currently work.
 git checkout branchname ->Switch from one branch to another branch.
 git marge branchname 	->To merge a different branch into your active branch.
-git log			->This command is used to check the commit history.
-git revent		->trying
+git log			->This command is used to check the commit history on git.
+rm -rf .git		->To remove a file from a Git repository and your working directory but not remove on pc.we can work again Git repository those 			  file. 
+git fatch origin	->Instead, to drop all your local changes and commits, fetch the latest history from the server and point your local master branch 				at it, do this if connected with remote to git hub.
+
 git reset		->
