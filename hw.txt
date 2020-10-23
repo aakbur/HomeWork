@@ -10,3 +10,6 @@ git remote -v		->To check connectivity local working directory to remote server.
 git brunch		->to list all the branches in your reporepository , and also tell you what branch you're currently in.
 git checkout branchname ->Switch from one branch to another branch.
 git marge branchname 	->To merge a different branch into your active branch.
+git log			->
+git revent		->
+git reset		->
