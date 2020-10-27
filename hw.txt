@@ -4,7 +4,7 @@ Git add	filename	->Add one(single) file to Staging.
 
 git add --a		->Add all files to staging together.
 
-gir 
+Git diff		-> use this commad to defferent between working directory and sayiging area.
 
 git commit -m "mass"	->Commit changes to head locally final stage(but not yet to the remote repository).
 
